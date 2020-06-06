@@ -1,0 +1,2 @@
+rootProject.name='UploadGambarRetrofit'
+include ':app'
